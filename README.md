@@ -13,10 +13,10 @@ Additional description of the project and its features.
   - `section`, `main`, `table`, `div`
 - CSS,
   - `position`, `padding`, `margin`,
-  - `background-image`, `wfont-size`
+  - `background-image`, `font-size`
 - Linters
   - [Prettier](https://prettier.io/)
-  - [stylelint](https://stylelint.io/)
+  - [Stylelint](https://stylelint.io/)
 
 ## Live Demo
 
